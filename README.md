@@ -17,12 +17,12 @@ List of Jupyter notebooks containing the results of each project from most recen
 * **Predicting House Sale Prices**
   * Link: https://github.com/cpanell/learning-python-jupyter/blob/main/HousePricingPredictions.ipynb
   * Description: Created a functional pipelien for quickly iterating through different models for predicing housing prices in Ames, Iowa from 2006 to 2010.
-*  **Predicting Car Prices**
+* **Predicting Car Prices**
   * Link: https://github.com/cpanell/learning-python-jupyter/blob/main/PredictingCarPrices.ipynb
   * Description: Used a KNN model to predict car prices based on their attributes. 
-*  **Winning at Jeopardy**
+* **Winning at Jeopardy**
   * Link: https://github.com/cpanell/learning-python-jupyter/blob/main/Jeopardy.ipynb
   * Description: Used statistical analysis of Joepardy answers to find a winning strategy.
-*  **Spam Filter with Naive Bayes**
+* **Spam Filter with Naive Bayes**
   * Link: https://github.com/cpanell/learning-python-jupyter/blob/main/SpamFilter.ipynb
   * Description: Created a spam filter based on the Naive Bayes algorithm and tested it for accuracy.
