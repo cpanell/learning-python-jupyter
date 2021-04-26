@@ -25,6 +25,10 @@ List of Jupyter notebooks containing the results of each project by topic
   * **Predicting Car Prices**
     * Link: https://github.com/cpanell/learning-python-jupyter/blob/main/PredictingCarPrices.ipynb
     * Description: Used a KNN model to predict car prices based on their attributes. 
+* **Data Engineering**
+  * **Faster Queries in CSV**
+    * Link: https://github.com/cpanell/learning-python-jupyter/blob/main/fast_queries_csv.ipynb
+    * Description: Building faster lookup functions using data preprocessing.  
 * **Statistics** 
   * **Winning at Jeopardy**
     * Link: https://github.com/cpanell/learning-python-jupyter/blob/main/Jeopardy.ipynb
